@@ -21,4 +21,4 @@ for p in pokemon_images:
     st.image(p["url"], use_column_width=True)
 
 st.success("모두 다 귀엽죠? 😊")
-st.image("피카츄이미지.png"
+st.image("피카츄이미지.png")
