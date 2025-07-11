@@ -23,4 +23,4 @@ for p in pokemon_images:
 st.success("모두 다 귀엽죠? 😊")
 
 st.subheader("직접 다운로드해서, github에 업로드한 이미지")
-st.image("포켓몬스터_모두의이야기.jpg", use_container_width=True)
+st.image("피카츄이미지.png", use_container_width=True)
